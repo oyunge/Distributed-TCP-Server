@@ -1,4 +1,4 @@
-TCP Server
+# TCP Server
 
 This is a simple TCP server built with Python that can handle up to 5 clients. Clients are assigned ranks based on the order they connect to the server, with the first client being assigned the highest rank.
 
